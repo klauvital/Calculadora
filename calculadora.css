@@ -5,7 +5,8 @@ body {
 }
 
 .calculator {
-    width: 300px;
+    width: 90%;
+    max-width: 400px;
     margin: 100px auto;
     padding: 20px;
     border: 2px solid orange;
@@ -20,7 +21,7 @@ h1 {
 }
 
 input[type="text"] {
-    width: 97%;
+    width: 98%;    
     height: 40px;
     font-size: 24px;
     text-align: right;
